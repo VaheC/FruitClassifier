@@ -18,16 +18,16 @@ The data should be placed into data folder which should be created inside the ar
 structure should look:
 
 -artifacts
-    - data
-        - Apple
-        - Orange
-        - Avocado
-        - Kiwi
-        - Mango
-        - Pinenapple
-        - Strawberries
-        - Banana
-        - Cherry
-        - Watermelon
+    -- data
+        --- Apple
+        --- Orange
+        --- Avocado
+        --- Kiwi
+        --- Mango
+        --- Pinenapple
+        --- Strawberries
+        --- Banana
+        --- Cherry
+        --- Watermelon
 
 
