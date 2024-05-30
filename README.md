@@ -14,4 +14,20 @@ Here are the mentioned fruits:
 
 The data is obtained from [here](https://www.kaggle.com/datasets/karimabdulnabi/fruit-classification10-class).
 
+The data should be placed into data folder which should be created inside the artifacts folder. Here is how the folder
+structure should look:
+
+-artifacts
+    - data
+        - Apple
+        - Orange
+        - Avocado
+        - Kiwi
+        - Mango
+        - Pinenapple
+        - Strawberries
+        - Banana
+        - Cherry
+        - Watermelon
+
 
