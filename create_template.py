@@ -12,12 +12,16 @@ list_of_files = [
     f"src/{project_name}/pipeline/__init__.py",
     f"src/{project_name}/entity/__init__.py",
     f"src/{project_name}/constants/__init__.py",
+    f"src/{project_name}/exception/__init__.py",
+    f"src/{project_name}/exception/exception.py",
+    f"src/{project_name}/logger/logger.py",
     "config/config.yaml",
     "dvc.yaml",
     "params.yaml",
     "requirements.txt",
     "setup.py",
-    "research/test.ipynb"
+    "research/test.ipynb",
+    "app.py"
 ]
 
 for filepath in list_of_files:
