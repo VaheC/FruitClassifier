@@ -17,6 +17,7 @@ The data is obtained from [here](https://www.kaggle.com/datasets/karimabdulnabi/
 The data should be placed into data folder which should be created inside the artifacts folder. Here is how the folder
 structure should look:
 
+```
 -artifacts
     -- data
         --- Apple
@@ -29,5 +30,5 @@ structure should look:
         --- Banana
         --- Cherry
         --- Watermelon
-
+```
 
