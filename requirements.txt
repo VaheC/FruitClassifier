@@ -1,0 +1,5 @@
+fastai==2.7.12
+numpy==1.23.5
+opencv-python==4.9.0.80
+Pillow==9.5.0
+streamlit==1.24.0
